@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+h1, 
+td {
+    text-align: center;
+    
+}
+
+td {
+    border: 2px solid grey;
+    height: 2em;
+    width: 2em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+table {
+    margin: 0 auto;    
+}
+
+button {    
+    margin: .5em auto;
+}
+
+
+
